@@ -3,3 +3,7 @@
 ################################################################################
 
 *.suo
+/Ara2.AraTextArea/obj
+/Ara2.AraTextArea/bin
+/Ara2.AraTextArea/Nuget/Ara2.AraTextArea.*.nupkg
+*.user
